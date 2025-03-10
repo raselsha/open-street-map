@@ -1,3 +1,11 @@
+<?php
+/**
+ * Support doc
+ * https://behind-the-code.blogspot.com/2022/07/openstreet-map-jquery-codeingiter-php.html
+ * https://youtu.be/wwXXe6sa7Dk
+ */
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -28,7 +36,7 @@
     <div class="auto-search-wrapper loupe ">
       <input type="text" autocomplete="off" id="search" class="form-control" placeholder="enter the city name" value="Dhaka Bangladesh" />
     </div>
-    <div style="max-width: 100%;height: 700px">
+    <div style="max-width: 100%;height: 400px">
       <div id="map" class="map"></div>
     </div>
 
